@@ -13,6 +13,6 @@ Worldwide, wildfires have increased dramatically in recent years, driven not onl
 # Authors, Contribution, Support and Contact
 This project is part of a course for the study masters program Applied Geoinformatics at the University of Salzburg. Contributions are therefore not foreseen within this project. For more information, support or questions please find the contact of the author below: 
 
-Max Schneeberger
-e-mail: max.schneeberger@stud.plus.ac.at
+Max Schneeberger  
+e-mail: max.schneeberger@stud.plus.ac.at  
 Contact: Schillerstraße 30, 5020 Salzburg
