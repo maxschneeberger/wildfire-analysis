@@ -15,4 +15,7 @@ This project is part of a course for the masters program Applied Geoinformatics 
 
 Max Schneeberger  
 e-mail: max.schneeberger@stud.plus.ac.at  
-Contact: Schillerstraße 30, 5020 Salzburg
+Address: Schillerstraße 30, 5020 Salzburg  
+
+# License  
+CC BY-NC-SA 4.0
