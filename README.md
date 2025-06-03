@@ -13,7 +13,7 @@ In recent decades, the frequency and severity of wildfires have increased dramat
 # Authors, Contribution, Support and Contact
 This project is part of a course for the masters program Applied Geoinformatics at the University of Salzburg. Contributions are therefore not foreseen within this project. For more information, support or questions please find the contact of the author below: 
 
-Max Schneeberger  
+Max Walter Schneeberger  
 e-mail: max.schneeberger@stud.plus.ac.at  
 Address: Schillerstraße 30, 5020 Salzburg  
 
